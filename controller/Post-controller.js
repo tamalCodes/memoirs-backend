@@ -3,7 +3,7 @@
 
 import { request } from "express";
 import Post from "../models/Post_schema.js";
-const url = "http://localhost:5000";
+const url = "https://memoirs-backend-mern.herokuapp.com";
 import grid from "gridfs-stream";
 import mongoose from "mongoose";
 
